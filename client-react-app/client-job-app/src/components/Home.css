@@ -1,0 +1,71 @@
+/* Home.css */
+.home-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    text-align: center;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    margin-bottom: 30px;
+}
+
+.header h1 {
+    font-size: 3em;
+    color: #2c3e50;
+}
+
+.header p {
+    font-size: 1.3em;
+    color: #7f8c8d;
+}
+
+.auth-options {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.auth-option {
+    max-width: 300px;
+    padding: 30px;
+    border: 2px solid #3498db;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(52, 152, 219, 0.2);
+    transition: transform 0.3s ease-in-out;
+    margin: 15px;
+    flex: 1;
+}
+
+.auth-option:hover {
+    transform: scale(1.05);
+}
+
+.auth-option p {
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    color: #34495e;
+}
+
+.auth-link {
+    display: block;
+    padding: 15px 0;
+    background-color: #3498db;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.auth-link:hover {
+    background-color: #0a4369;
+}
+
+@media (max-width: 600px) {
+    .auth-option {
+        margin: 10px;
+    }
+}
