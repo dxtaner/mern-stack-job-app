@@ -1,0 +1,66 @@
+/* MyProfile.css */
+.profile-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    text-align: center;
+    background-color: #fff;
+    border-top: 8px solid purple;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.back-link {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.back-link:hover {
+    color: #0a4369;
+}
+
+.profile-heading {
+    font-size: 2.5em;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.profile-input {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.update-button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 12px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.update-button:hover {
+    background-color: #0a4369;
+}
