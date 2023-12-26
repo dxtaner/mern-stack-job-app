@@ -1,0 +1,36 @@
+/* AllJobs.css */
+.all-jobs-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 20px;
+    border-top: 8px solid rebeccapurple;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.back-link {
+    display: block;
+    margin-bottom: 10px;
+    color: #3498db;
+    text-decoration: none;
+}
+
+.all-jobs-heading {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+    font-weight: 800;
+}
+
+.link-container {
+    margin-bottom: 20px;
+}
+
+.link-container>.add-job-link {
+    color: #000000;
+    text-decoration: none;
+    font-weight: 900;
+}
