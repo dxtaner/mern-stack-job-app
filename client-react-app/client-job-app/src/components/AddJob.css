@@ -1,0 +1,73 @@
+/* AddJob.css */
+.add-jobs-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-top: 8px solid rebeccapurple;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.back-link {
+    display: block;
+    margin-bottom: 10px;
+    color: #3498db;
+    text-decoration: none;
+}
+
+.add-jobs-heading {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.link-container {
+    margin-bottom: 20px;
+}
+
+.show-all-jobs-link {
+    color: #2ecc71;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.job-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.input-field,
+.select-field {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+
+.select-field {
+    appearance: none;
+    background-size: 18px;
+    padding-right: 30px;
+}
+
+.submit-button {
+    background-color: #1c7d44;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+    background-color: #0b4d27;
+}
