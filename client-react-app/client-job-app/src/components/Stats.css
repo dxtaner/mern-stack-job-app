@@ -1,0 +1,75 @@
+.stats-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.stats-header {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.loading-message,
+.error-message {
+    font-size: 18px;
+    color: #ff0000;
+    margin-bottom: 20px;
+}
+
+.stats-subheader {
+    font-size: 20px;
+    color: #555;
+    margin-top: 20px;
+}
+
+.stats-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.stats-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.stats-item svg {
+    margin-right: 20px;
+    font-size: 24px;
+}
+
+.stats-item.pending {
+    color: #ffc107;
+}
+
+.stats-item.interview {
+    color: #28a745;
+}
+
+.stats-item.declined {
+    color: #dc3545;
+}
+
+.stats-list-monthly {
+    list-style-type: none;
+    padding: 0;
+}
+
+.stats-item-monthly {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.stats-item-monthly svg {
+    margin-right: 20px;
+    font-size: 24px;
+    color: #007bff;
+}
