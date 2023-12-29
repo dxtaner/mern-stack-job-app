@@ -1,8 +1,7 @@
 *   # MERN Stack Job Application
-
 This repo contains a job application application developed with the MERN (MongoDB, Express.js, React, Node.js) stack.
-## Ekran Görüntüleri
 
+## Screen Shoots
 - ![Ana Sayfa](JobsAppScreenShoots/Homepage.png)
 - ![Kayıt Sayfası](JobsAppScreenShoots/RegisterPAge.png)
 - ![İstatistikler](JobsAppScreenShoots/Stats.png)
