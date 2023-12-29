@@ -1,20 +1,3 @@
-
-
-Job Board Backend API Documentation
-
-
-Table of Contents
------------------
-
-*   [Authentication Routes](#authentication-routes)
-*   [Job Listings Routes](#job-listings-routes)
-*   [Rate Limiting](#rate-limiting)
-*   [Authentication](#authentication)
-*   [Security](#security)
-*   [Technologies Used](#technologies-used)
-*   [Contributing](#contributing)
-*   [License](#license)
-
 *   # MERN Stack Job Application
 
 Bu repo, MERN (MongoDB, Express.js, React, Node.js) yığını ile geliştirilmiş bir iş başvuru uygulamasını içerir.
@@ -34,7 +17,17 @@ Bu repo, MERN (MongoDB, Express.js, React, Node.js) yığını ile geliştirilmi
 - ![Giriş Sayfası](JobsAppScreenShoots/loginpage.png)
 - ![Profil Sayfası](JobsAppScreenShoots/myporfile.png)
 
+Table of Contents
+-----------------
 
+*   [Authentication Routes](#authentication-routes)
+*   [Job Listings Routes](#job-listings-routes)
+*   [Rate Limiting](#rate-limiting)
+*   [Authentication](#authentication)
+*   [Security](#security)
+*   [Technologies Used](#technologies-used)
+*   [Contributing](#contributing)
+*   [License](#license)
 
 Authentication Routes
 ---------------------
