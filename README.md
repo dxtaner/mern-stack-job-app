@@ -1,17 +1,17 @@
-*   # MERN Stack Job Application
+# MERN Stack Job Application
 This repo contains a job application application developed with the MERN (MongoDB, Express.js, React, Node.js) stack.
 
 ## Screen Shoots
 - ![Ana Sayfa](JobsAppScreenShoots/Homepage.png)
 - ![Kayıt Sayfası](JobsAppScreenShoots/RegisterPAge.png)
-- ![İstatistikler](JobsAppScreenShoots/Stats.png)
-- ![İş Ekleme Ekranı](JobsAppScreenShoots/addjob.png)
-- ![Tüm İşler](JobsAppScreenShoots/alljobs.png)
-- ![Gösterge Paneli](JobsAppScreenShoots/dashboard.png)
-- ![Gösterge Paneli (Güncellendi)](JobsAppScreenShoots/dashboard2.png)
-- ![İş Silme Ekranı](JobsAppScreenShoots/deletejob.png)
-- ![Düzenlenmiş İş Ekranı](JobsAppScreenShoots/editedjob.png)
-- ![Alt Menü](JobsAppScreenShoots/footer.png)
+ ![İstatistikler](JobsAppScreenShoots/Stats.png)
+ ![İş Ekleme Ekranı](JobsAppScreenShoots/addjob.png)
+ ![Tüm İşler](JobsAppScreenShoots/alljobs.png)
+ ![Gösterge Paneli](JobsAppScreenShoots/dashboard.png)
+ ![Gösterge Paneli (Güncellendi)](JobsAppScreenShoots/dashboard2.png)
+ ![İş Silme Ekranı](JobsAppScreenShoots/deletejob.png)
+ ![Düzenlenmiş İş Ekranı](JobsAppScreenShoots/editedjob.png)
+ ![Alt Menü](JobsAppScreenShoots/footer.png)
 - ![Giriş Sayfası](JobsAppScreenShoots/loginpage.png)
 - ![Profil Sayfası](JobsAppScreenShoots/myporfile.png)
 
